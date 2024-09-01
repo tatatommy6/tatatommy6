@@ -4,6 +4,8 @@
 what i can do <br/>
  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>
  
 <!--
 **tatatommy6/tatatommy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
