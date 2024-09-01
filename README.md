@@ -28,5 +28,4 @@ what i can do well<br/>
  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
  etc..
  <br/>
- my most used laguages😄
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&langs_count=5&layout=donut-vertical&size_weight=1" alt="used langs">
