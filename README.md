@@ -1,5 +1,9 @@
-## Hi there 👋
+##  👋
 
+
+# what i can do
+ <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+ 
 <!--
 **tatatommy6/tatatommy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
