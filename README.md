@@ -2,7 +2,7 @@
 
 
 what i can do <br/>
- <img src="https://img.shields.io/badge/python-ffb13b?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
  
 <!--
 **tatatommy6/tatatommy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
