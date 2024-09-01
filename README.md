@@ -8,7 +8,7 @@ what i can do <br/>
  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css&logoColor=white"/>
 
  <br/>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tatatommy6/tatatommy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
