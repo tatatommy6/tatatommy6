@@ -1,7 +1,7 @@
 ## ⭐️introducing me!⭐️
 - 🔭 I’m currently working on [Re:mind🎗️-Flashback](https://github.com/rrayy-25809/flashback), [Flashback_new](https://github.com/tatatommy6/flashback_new)
 - 🌱 I’m currently learning  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>  <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-- 📫 How to reach me: [my Email](mailto:tatatommy6@naver.com)
+- 📫 How to reach me: [tatatommy6@naver.com](mailto:tatatommy6@naver.com)
 
 
 what i can do well<br/>
