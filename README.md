@@ -1,4 +1,4 @@
-## ⭐️introducing me!⭐️
+## ⭐️⭐️
 - 🔭 I’m currently working(learning) on [tatatommy6/learn_rust](https://github.com/tatatommy6/learn_rust)
 - 📫 How to reach me: [tatatommy6@naver.com](mailto:tatatommy6@naver.com)
 
