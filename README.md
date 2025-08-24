@@ -25,7 +25,7 @@
 ![MPS](https://img.shields.io/badge/MPS-000000?style=flat&logo=apple&logoColor=white)
 
 ---
-- ⚙️ 현재 진행하는 사이드 프로젝트: [Fake News Detector](https://github.com/tatatommy6/fake_news_detector)
+- ⚙️ 현재 진행하는 사이드 프로젝트: [Packet predictor](https://github.com/tatatommy6/packet)
 ---
 
 ## 📈 GitHub Stats
