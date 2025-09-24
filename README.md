@@ -43,3 +43,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=github_dark)
 ![](https://nirzak-streak-stats.vercel.app/?user=tatatommy6&theme=dark&hide_border=false)<br/>
+![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg)
