@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&hide=contribs,prs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=github_dark)
-![](https://nirzak-streak-stats.vercel.app/?user=tatatommy6&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tatatommy6&theme=dark)](https://git.io/streak-stats)
 ![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg)
