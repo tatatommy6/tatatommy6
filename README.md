@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-- 🌱 요즘 배우는 것: `Fast API`, `Pytorch`, `Backend`, `AI Algorithms`
+- 🌱 요즘 배우는 것: `Pytorch`, `AI Algorithms` 
 - 💼 관심 분야: `인공지능`, `웹 개발`
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
