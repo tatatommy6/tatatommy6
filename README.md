@@ -35,7 +35,10 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ---
-- ⚙️ 현재 진행하는 프로젝트: [multi-seasonal-fourier-regression(MSFR)](https://github.com/tatatommy6/multi-seasonal-fourier-regression)
+- ⚙️ 현재 진행하는 프로젝트:
+
+[multi-seasonal-fourier-regression(MSFR)](https://github.com/tatatommy6/multi-seasonal-fourier-regression), [fake-news-detect](https://github.com/tatatommy6/fake_news_finder) 
+
 ---
 
 ## 📈 GitHub Stats
