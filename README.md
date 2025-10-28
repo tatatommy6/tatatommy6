@@ -43,7 +43,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&hide=contribs,prs&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6)](https://github.com/tatatommy6/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tatatommy6&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tatatommy6&theme=dark)
 ![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg)
