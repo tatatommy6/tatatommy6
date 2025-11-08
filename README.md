@@ -2,6 +2,8 @@
 
 - What I learn these days: `Pytorch`, `AI algorithms`
 - What I like to make: `AI`, `Websites`
+
+## What I can do
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,12 +19,6 @@
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=github&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-
-### 🚀 Hardware & Infrastructure
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![MPS](https://img.shields.io/badge/MPS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 - I am currently developing: [multi-seasonal-fourier-regression(MSFR)](https://github.com/tatatommy6/multi-seasonal-fourier-regression), [fake-news-detect](https://github.com/tatatommy6/fake_news_finder) 
