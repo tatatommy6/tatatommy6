@@ -3,7 +3,7 @@
 - What I learn these days: `Pytorch`, `AI algorithms`
 - What I like to make: `AI`, `Websites`
 
-## What I can do
+## What I'm good at
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
