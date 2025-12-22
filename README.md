@@ -1,5 +1,8 @@
 ## About Me
 
+I am from Korea, and I enjoy developing AI models using PyTorch and building backend servers with Flask.
+
+I am currently a high school student and plan to attend SUNY Korea as a Computer Science major in 2026.
 - What I learn these days: `Pytorch`, `AI algorithms`
 - What I like to make: `AI`, `Websites`
 
@@ -21,13 +24,15 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-- I am currently developing: [multi-seasonal-fourier-regression(MSFR)](https://github.com/tatatommy6/multi-seasonal-fourier-regression), [fake-news-detect](https://github.com/tatatommy6/fake_news_finder) 
+- I am currently developing: [multi-seasonal-fourier-regression(MSFR)](https://github.com/tatatommy6/multi-seasonal-fourier-regression)
 
 ---
 
 ## My Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&theme=dark)](https://github.com/tatatommy6/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tatatommy6&theme=dark)
-![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg)
+<!--![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg) -->
