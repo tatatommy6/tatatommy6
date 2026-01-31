@@ -2,7 +2,7 @@
 
 I am from Korea, and I enjoy developing AI models using PyTorch and building backend servers with Flask.
 
-I am currently a high school student and plan to attend SUNY Korea as a Computer Science major in 2026.
+I am a Computer Science student (Class of 2026) at SUNY Korea, Stony Brook University.
 - What I learn these days: `Pytorch`, `AI algorithms`
 - What I like to make: `AI`, `Websites`
 
