@@ -30,9 +30,9 @@ I am a Computer Science student (Class of 2026) at SUNY Korea, Stony Brook Unive
 
 ## My Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatatommy6&theme=dark)](https://github.com/tatatommy6/github-readme-stats)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=tatatommy6&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=github_dark)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=tatatommy6&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tatatommy6&theme=dark)
 <!--![Programmers Badge](https://raw.githubusercontent.com/tatatommy6/Programmers_Badge_Generator/main/result/result.svg) -->
